@@ -1,0 +1,16 @@
+{
+"companyName": "Katalyse Innovative Solution",
+"productName": "KatAz",
+"productVersion": "0.1",
+"dataUrl": "Buildv2.data.unityweb",
+"wasmCodeUrl": "Buildv2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Buildv2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#808080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
